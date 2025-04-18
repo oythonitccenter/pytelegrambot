@@ -13,3 +13,20 @@
 2025-04-14 16:04:45,509 - aiogram.event - INFO - Update id=855176931 is handled. Duration 546 ms by bot id=7944803359
 2025-04-14 16:05:05,474 - aiogram.dispatcher - INFO - Polling stopped
 2025-04-14 16:05:05,880 - aiogram.dispatcher - INFO - Polling stopped for bot @pyhton_it_centr_bot id=7944803359 - 'python_kurs'
+2025-04-14 16:09:34,522 - aiogram.dispatcher - INFO - Start polling
+2025-04-14 16:09:34,642 - aiogram.dispatcher - INFO - Run polling for bot @pyhton_it_centr_bot id=7944803359 - 'python_kurs'
+2025-04-14 16:09:36,066 - aiogram.event - INFO - Update id=855176932 is handled. Duration 546 ms by bot id=7944803359
+2025-04-14 16:09:38,415 - aiogram.event - INFO - Update id=855176933 is handled. Duration 344 ms by bot id=7944803359
+2025-04-14 16:09:43,690 - aiogram.event - INFO - Update id=855176934 is handled. Duration 625 ms by bot id=7944803359
+2025-04-14 16:20:10,028 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-14 16:20:10,419 - aiogram.dispatcher - INFO - Polling stopped for bot @pyhton_it_centr_bot id=7944803359 - 'python_kurs'
+2025-04-15 16:35:53,065 - aiogram.dispatcher - INFO - Start polling
+2025-04-15 16:35:53,179 - aiogram.dispatcher - INFO - Run polling for bot @pyhton_it_centr_bot id=7944803359 - 'python_kurs'
+2025-04-15 16:57:03,961 - aiogram.event - INFO - Update id=855176935 is handled. Duration 546 ms by bot id=7944803359
+2025-04-15 16:57:08,913 - aiogram.event - INFO - Update id=855176936 is handled. Duration 391 ms by bot id=7944803359
+2025-04-15 16:57:12,523 - aiogram.event - INFO - Update id=855176937 is handled. Duration 530 ms by bot id=7944803359
+2025-04-15 16:58:24,236 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2025-04-15 16:58:24,237 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7944803359)
+2025-04-15 16:58:35,598 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7944803359)
+2025-04-16 16:12:55,216 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-16 16:12:56,004 - aiogram.dispatcher - INFO - Polling stopped for bot @pyhton_it_centr_bot id=7944803359 - 'python_kurs'
